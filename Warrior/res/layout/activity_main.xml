@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal|center_vertical"
+    android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+
+  
+ 
+    <Button
+        android:id="@+id/new_game"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:text="New Game" />
+
+    <Button
+        android:id="@+id/instructions"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:text="Instructions" />
+
+    <Button
+        android:id="@+id/about"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:text="About" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="150dip"
+        android:layout_height="wrap_content"
+        android:text="Settings" />
+
+   
+
+</LinearLayout>

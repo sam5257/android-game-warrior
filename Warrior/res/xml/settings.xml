@@ -1,0 +1,9 @@
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" >
+   <CheckBoxPreference
+    android:key="sound"
+    android:title="Sound"
+    android:summary="Play sound"
+    android:defaultValue="true" />
+
+</PreferenceScreen>

@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" >
+
+    <string name="app_name" >Warrior</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Warrior</string>
+    <string name="about">Developed at: \n\nFET,GKV Haridwar\n\nDeveloper:Sameer Chatterji</string>
+    <string name="instructions">Touch the Ship to fire.\n\nTilt the phone left-right to move.\n\nThe Ship is capable to fire one shot at a time.\n\n10 points to hit the enemy ship.</string>
+
+</resources>
